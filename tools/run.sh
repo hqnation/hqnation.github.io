@@ -2,9 +2,9 @@
 #
 # Run jekyll serve and then launch the site
 
-prod=false
+prod=true
 command="bundle exec jekyll s -l"
-host="127.0.0.1"
+host="hqnation.github.io"
 
 help() {
   echo "Usage:"
