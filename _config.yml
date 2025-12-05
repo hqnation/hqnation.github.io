@@ -6,8 +6,8 @@ timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Hq-Nation Blog
-description: Github Blog Project.
-url: "https://github.com/hqnation/blog"
+description: Hq-Nation - Github Blog Project.
+url: "https://hqnation.github.io"
 github:
   username: hqnation
 twitter:
@@ -87,7 +87,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-# baseurl: "/blog/"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 kramdown:
