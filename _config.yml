@@ -7,7 +7,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Hq-Nation Blog
 description: Github Blog Project.
-url: "https://hqnation.github.io"
+url: "https://hqnation.github.io/blog"
 github:
   username: hqnation
 twitter:
